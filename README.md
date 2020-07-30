@@ -32,3 +32,17 @@ We can observe a wide spread of cloudiness across the range of latitudes. We can
 However, we can observe a 3 clusters worth mentioning. First cluster has 100% cloudiness for cities between 0 and 20 degree latitude. The second and third clusters are the 0% cloudiness at around 20 to 40 degree latitudes at both sides of the hemisphere. 
 
 This could potentially infer that *tropical cities closer to the equator tend to be cloudier while there are clearer skies along the Tropic of Cancer and Tropic of Capricon.*
+
+### Files:
+
+**1. WeatherPy**
+* Jupyter Notebook (filename: WeatherPy.ipynb)
+* Output Data:
+   * Cities data retrieved from OpenWeatherMap API (filename: cities.csv)
+   * Scatter plot of Latitude vs Temperature (filename: Fig1.png)
+   * Scatter plot of Latitude vs Humidity (filename: Fig2.png)
+   * Scatter plot of Latitude vs Cloudiness (filename: Fig3.png)
+   * Scatter plot of Latitude vs Wind Speed (filename: Fig4.png)
+   
+**2. VacationPy**
+* Jupyter Notebook (filename: VacationPy.ipynb)

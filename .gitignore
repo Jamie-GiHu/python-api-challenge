@@ -55,6 +55,9 @@ coverage.xml
 *.mo
 *.pot
 
+api_keys.py
+.py
+
 # Django stuff:
 *.log
 local_settings.py
@@ -123,3 +126,6 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+api_keys.py
+*.py
